@@ -1,14 +1,13 @@
-# ¡Hola! Soy Alejandro Gómez 👋
+# ¡Hola! Soy Alejandro Gómez 
 
 ## 🛡️ Ciberseguridad & Red Team Candidate
 Graduado en **ASIR** enfocado en seguridad ofensiva, pentesting y análisis forense. Comprometido con el aprendizaje continuo y la adquisición de certificaciones clave del sector.
 
 ---
 
-### 🚀 Objetivos & Certificaciones (2026)
-*   🎯 **En progreso:** Preparación para la certificación **eJPT**.
-*   🎓 **Próxima especialización:** Máster en Hacking Ético + **OSCP**.
-*   📜 **Certificaciones:** AWS Academy Graduate | Formación en ENS (Esquema Nacional de Seguridad).
+###  Objetivos & Certificaciones (2026)
+*    **Próxima especialización:** Máster en Hacking Ético + **OSCP**.
+*    **Certificaciones:** AWS Academy Graduate | Formación en ENS (Esquema Nacional de Seguridad).
 
 ---
 
@@ -20,7 +19,7 @@ Graduado en **ASIR** enfocado en seguridad ofensiva, pentesting y análisis fore
 
 ---
 
-### 💼 Experiencia Técnica
+###  Experiencia Técnica
 
 #### **Cybersecurity Trainee** | Consultoría tecnológica
 *   Colaboración en auditorías de seguridad interna y tareas de **pentesting**.
@@ -30,15 +29,15 @@ Graduado en **ASIR** enfocado en seguridad ofensiva, pentesting y análisis fore
 
 ---
 
-### 📁 Proyectos Destacados
+###  Proyectos Destacados
 
-#### 🔍 [Análisis Forense: Mitigación de Phishing Bancario](https://github.com/TU_USUARIO/TU_REPOSITORIO_CAIXABANK)
+####  [Análisis Forense: Mitigación de Phishing Bancario](https://github.com/TU_USUARIO/TU_REPOSITORIO_CAIXABANK)
 Investigación técnica sobre un correo fraudulento que suplantaba a una entidad financiera.
 *   **Forense de archivos:** Inspección de metadatos y payloads con `exiftool` y `pdf-parser`.
 *   **Análisis de red y correo:** Análisis de tráfico con `Wireshark` y auditoría de registros SPF, DKIM y DMARC.
 
 ---
 
-### 📬 Contacto
+###  Contacto
 
 *   💼 **LinkedIn:** [Mi Perfil Profesional](www.linkedin.com/in/alejandro-gómez-04b17634b)
